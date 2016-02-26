@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="GBK"?>
+ <Info>
+   <Version>1.0</Version>
+   <UpdateServer>
+     <Ip>127.0.0.1</Ip>
+     <Port>8888</Port>
+   </UpdateServer>
+   <Files>     
+  </Files> 
+</Info>
